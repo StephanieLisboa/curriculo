@@ -1,1 +1,34 @@
-aa
+.imgstephanie{
+  border-style:solid;
+  border-color: black;
+}
+table{ 
+  font family: arial;
+  border-collapse: collapse;
+  width: 100%
+}
+
+td, th{
+  border: 1px solid #dddddd;
+  text-aling: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: yellow;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+
+.borda {
+  background: rgba(255, 125, 6, 0, 61)
+    width: 30%
+    border-style: solid;
+    border-width: 2px;
+      border-color: grey
+      border-radius: 25px;
+}
+
+  
